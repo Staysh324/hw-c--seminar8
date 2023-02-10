@@ -77,5 +77,6 @@ System.Console.WriteLine();
 PrintArray(arrayB);
 
 int[,] arrayC = MultiplicationArrays(arrayA, arrayB);
+System.Console.WriteLine();
 System.Console.WriteLine("получившийся массив C:");
 PrintArray(arrayC);
